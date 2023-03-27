@@ -1,0 +1,54 @@
+*{
+  
+    padding: 0;
+    margin: 0;
+}
+
+.h1{
+    
+    background: linear-gradient(#eb5f346b,rgba(0, 0, 0, 0.413));
+    text-align: center;
+    /* margin-top: 150px; */
+    height: 300px;
+    width: 100%;
+    padding-top: 150px;
+    color: rgb(70, 20, 220);
+    font-family: cursive;
+    text-decoration: underline;
+    background-image: url(https://images.pexels.com/photos/910310/pexels-photo-910310.jpeg?auto=compress&cs=tinysrgb&w=600 );
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.img1{
+    height: 300px;
+    width: 300px;
+padding: 50px;
+border: 3px solid black;
+border-radius: 12px;
+margin-left: 450px;  
+background: linear-gradient(rgba(49, 205, 106, 0.408),rgba(0, 0, 0, 0.358));  
+
+}
+.name{
+    color:rgb(69, 19, 234);
+    margin-left: 550px; 
+    text-decoration: underline;
+    font-family: cursive;
+}
+.a{
+    margin-left: 700px; 
+}
+.name1{
+    color:rgb(43, 16, 249);
+    margin-left:700px;  
+    font-family:cursive;
+    /* text-decoration: underline; */
+}
+.bg{
+    background: linear-gradient(rgba(15, 235, 15, 0.394),rgba(232, 22, 22, 0.519));
+    border: 3px solid black;
+    padding: 50px;
+    
+}

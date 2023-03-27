@@ -1,0 +1,26 @@
+  .about{
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 6px;
+    height: 180px;
+    width: 20%;
+   /* background-image: url(https://images.pexels.com/photos/2458409/pexels-photo-2458409.jpeg?auto=compress&cs=tinysrgb&w=600); */
+/* margin-left: 100px; */
+background-size: cover;
+color: rgba(53, 4, 4, 0.986);
+padding: 20px;
+margin: 50px;
+
+  }
+  li{
+    list-style-type: none;
+  }
+  .about1{
+    background:linear-gradient( #f540099d,#7caddfce)
+  }
+  .font{
+    text-decoration: underline;
+    font-family: cursive;
+    font-weight: bold;
+    color: rebeccapurple;
+  }
